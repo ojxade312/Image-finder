@@ -4,7 +4,7 @@
 
 This project allows terms to be searched using the input box returning pictures matching that term.
 
-This project was built using React and styled components for styling. 
+This project was built using React 
 
 
 
