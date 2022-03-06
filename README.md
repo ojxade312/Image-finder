@@ -6,7 +6,6 @@ This project allows terms to be searched using the input box returning pictures 
 
 This project was built using React and styled components for styling. 
 
-In the future I hope to implement a feature that allows the user to view a history of completed tasks.
 
 
 
